@@ -6,3 +6,4 @@ A COVID-19 classifier effectively built off a small subset of the COVIDx data se
 - the trained model is available in final-16epochs-32-64-64-128-128-256-COVID-XRay
 - Pickle files of the training and test data are available in Data.zip 
 - The licence for Small-Net is available under LICENCE 
+- Assignment 1 Group 9.edited.docx is the final report on the findings of Small-Net efficacy
