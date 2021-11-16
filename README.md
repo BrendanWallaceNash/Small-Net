@@ -1,5 +1,5 @@
 # Small-Net
-A COVID-19 classifier effectively built off a small subset of the COVIDx data set from the COVID-Net model
+A COVID-19 classifier effectively built off a small subset of the COVIDx data set from the COVID-Net model to accomadate under represented demographics in the medical industry.
 
 - The data preprocessing method for Small-Net is available in Data preprocessiong.ipynb
 - The development of the Small-Net model and results of the Small-Net model can be found in Small-Net model development.ipynb
